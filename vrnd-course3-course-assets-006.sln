@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-course3-course-assets-006", "vrnd-course3-course-assets-006.csproj", "{06FFA8FB-4C76-21C6-FE0D-A87C76EA7338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-course3-course-assets-006.Editor", "vrnd-course3-course-assets-006.Editor.csproj", "{08C09063-3BC1-E53F-C2C0-6A92C4DE8B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FFA8FB-4C76-21C6-FE0D-A87C76EA7338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FFA8FB-4C76-21C6-FE0D-A87C76EA7338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FFA8FB-4C76-21C6-FE0D-A87C76EA7338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FFA8FB-4C76-21C6-FE0D-A87C76EA7338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C09063-3BC1-E53F-C2C0-6A92C4DE8B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C09063-3BC1-E53F-C2C0-6A92C4DE8B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C09063-3BC1-E53F-C2C0-6A92C4DE8B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C09063-3BC1-E53F-C2C0-6A92C4DE8B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
