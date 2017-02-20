@@ -163,6 +163,7 @@
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Utilities\Framerate.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Utilities\MultipleInputProcessing.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Utilities\Verification.cs" />
+    <Compile Include="Assets\VRND-Course3-Course_Assets\StarterContent\RotateLight.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
