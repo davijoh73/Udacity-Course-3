@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VRND-Course3-Course_Assets/Scenes/Dave_Ball_Ramp_Wall.unity
+- path: Assets/VRND-Course3-Course_Assets/Scenes/Island.unity
   isLoaded: 1
   isActive: 1
