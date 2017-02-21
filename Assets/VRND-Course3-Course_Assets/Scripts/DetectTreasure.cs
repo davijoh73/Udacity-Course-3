@@ -4,12 +4,19 @@ using UnityEngine;
 
 public class DetectTreasure : MonoBehaviour {
 
-    //using FixedUpdate instead of Update for Raycasting
+    public Animator openTreasureChest;
+
     void FixedUpdate()
     {
         Vector3 fwd = transform.TransformDirection(Vector3.forward);
 
         if (Physics.Raycast(transform.position, fwd, 10))
-            print("There is something in front of the object!");
+        {
+            openTreasureChest.SetBool("OpenChest", true);
+        }
+        else
+        {
+            openTreasureChest.SetBool("OpenChest", false);
+        }
     }
 }
