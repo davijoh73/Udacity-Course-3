@@ -126,6 +126,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Animations\LeafAnimation.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Animations\RandomPath.cs" />
+    <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\AudioPicker.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Debug\Debugging.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\Debug\KeyboardMovement.cs" />
     <Compile Include="Assets\VRND-Course3-Course_Assets\Scripts\DetectTreasure.cs" />
