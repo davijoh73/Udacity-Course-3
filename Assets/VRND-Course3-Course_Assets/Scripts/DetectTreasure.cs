@@ -12,11 +12,12 @@ public class DetectTreasure : MonoBehaviour {
 
         if (Physics.Raycast(transform.position, fwd, 10))
         {
-            openTreasureChest.SetBool("OpenChest", true);
+            openTreasureChest.SetBool("OpenBool", true);
+            print("There be treasure here!!!");
         }
         else
         {
-            openTreasureChest.SetBool("OpenChest", false);
+            openTreasureChest.SetBool("OpenBool", false);
         }
     }
 }
